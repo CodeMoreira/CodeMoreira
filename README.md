@@ -1,19 +1,22 @@
-### Hi there 👋
-My name is Gabriel Moreira Mattos! 😊
+# Hi there 👋 i'm Gabriel Moreira Mattos!
 
-I'm full-stack and mobile developer. I love everything about tech because of this i study and practice since 2016. 💻❤
+### Full-stack | Mobile | UI/UX Designer | Digital Artist
+Specialized on Frontend & BAAS (Supabase, Firebase, NHost Hasura, etc).
 
-i'm passionate about solving problems and learning. Always open to new challenges and ready to face change!
-Don't matter which problem is, i don't rest before solve this. 
+- 💻 I’m currently work at [**Lumi**](https://www.labs-lumi.com.br) as Senior front-end developer & tech lead.
+  - 📅 Schedule a meeting into my calendar [**Click here**](https://cal.com/codemoreira)!
+- 👨‍💻 Do you want to know more about my past experiences? Go to my [**Linkedin**](https://www.linkedin.com/in/moreiracode/).
+- 💬 Ask me about **Supabase, React, React Native, TypeScript, Javascript, Node.js, UX/UI, Digital Art composition, Code Architecture, Project Planning**.
 
-## ❤🌎 "Sempre tem algo novo para se aprender" 🧠❤
-- 💻 Front-End developer.
-- ⚙ Back-End Developer.
-- 📱 Mobile Developer.
+### DevCard Daily.dev Weekly Reading Goal
+<a href="https://app.daily.dev/CodeMoreira"><img src="https://api.daily.dev/devcards/4ec200c5c73c486fa3fd832529814151.png?r=1xu" width="400" alt="Gabriel Moreira Mattos's Dev Card"/></a>
 
-### Reach me out 👇
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&log=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-moreira-mattos-6a97a01ba/)](https://www.linkedin.com/in/gabriel-moreira-mattos-6a97a01ba/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/cloudsproduction/)](https://www.instagram.com/cloudsproduction/)
+### Reach me out
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511987860899)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreiracode/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cloudsproduction/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/n9rmHzwx)
+
 <!--
 **CodeMoreira/CodeMoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
