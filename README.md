@@ -8,9 +8,6 @@ Specialized on Frontend & BAAS (Supabase, Firebase, NHost Hasura, etc).
 - 👨‍💻 Do you want to know more about my past experiences? Go to my [**Linkedin**](https://www.linkedin.com/in/moreiracode/).
 - 💬 Ask me about **Supabase, React, React Native, TypeScript, Javascript, Node.js, UX/UI, Digital Art composition, Code Architecture, Project Planning**.
 
-### DevCard Daily.dev Weekly Reading Goal
-<a href="https://app.daily.dev/CodeMoreira"><img src="https://api.daily.dev/devcards/4ec200c5c73c486fa3fd832529814151.png?r=1xu" width="400" alt="Gabriel Moreira Mattos's Dev Card"/></a>
-
 ### Reach me out
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511987860899)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreiracode/)
