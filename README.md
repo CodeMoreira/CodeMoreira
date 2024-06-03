@@ -1,7 +1,7 @@
 # Hi there 👋 i'm Gabriel Moreira Mattos!
 
 ### Full-stack | Mobile | UI/UX Designer | Digital Artist
-Specialized on Frontend & BAAS (Supabase, Firebase, NHost Hasura, etc).
+Specialized on Frontend & Design.
 
 - 💻 I’m currently work at **ACT Digital** as FullStack Senior developer.
   - 📅 Schedule a meeting into my calendar [**Click here**](https://cal.com/codemoreira)!
