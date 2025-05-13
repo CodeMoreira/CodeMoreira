@@ -3,7 +3,10 @@
 ### Full-stack | Mobile | UI/UX Designer | Digital Artist
 Specialized on Frontend & Design.
 
+<!---
 - 💻 I’m currently work at [**Cali Payment Solutions**](https://cali.stronazen.pl/) as Front-end developer.
+-->
+- 💻 I’m currently open to work.
   - 📅 Schedule a meeting into my calendar [**Click here**](https://cal.com/codemoreira)!
 - 👨‍💻 Do you want to know more about my past experiences? Go to my [**Linkedin**](https://www.linkedin.com/in/moreiracode/).
 - 💬 Ask me about **Supabase, React, React Native, TypeScript, Javascript, Node.js, UX/UI, Digital Art composition, Code Architecture, Project Planning**.
